@@ -14,4 +14,9 @@ public static void main(String[] args) {
     if (true) { //Nunca poner if true
         System.out.println("Hello from develop");
     }
+    int j= 0;
+    while (j < 10) {
+        System.out.println("j = " + j);
+        j++;
+    }
 }
