@@ -17,7 +17,7 @@ public static void main(String[] args) {
         System.out.println("Hello from develop");
     }
     int j= 0;
-    while (j < 10) {
+    while (j < 20) {
         System.out.println("j = " + j);
         j++;
     }
